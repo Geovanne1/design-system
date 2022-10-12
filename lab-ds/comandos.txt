@@ -5,3 +5,13 @@ na pasta do projeto npm i = para instalar todas as dependencias do vite
 npm install -D tailwindcss postcss autoprefixer = para instalar o tailwind e as dependencias postcss autoprefixer
     (npx tailwindcss init -p = cria a pasta tailwind.config.cjs e a pasta postcss.config.cjs
     criar uma pasta styles e um arquivo global.css(dentro com arquivo colocar @tailwind base; @tailwind utilities; @tailwind components;)
+
+configurar um storybook( npx sb init --builder @storybook/builder-vite --use-npm)
+
+npm install --save clsx = para configurações do tailwind
+
+npm install @radix-ui/react-slot
+
+npm install @radix-ui/react-checkbox
+
+npm i phosphor-react
