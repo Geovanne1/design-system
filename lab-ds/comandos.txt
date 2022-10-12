@@ -1,0 +1,7 @@
+npm create vite@latest = criar o projeto react
+
+na pasta do projeto npm i = para instalar todas as dependencias do vite
+
+npm install -D tailwindcss postcss autoprefixer = para instalar o tailwind e as dependencias postcss autoprefixer
+    (npx tailwindcss init -p = cria a pasta tailwind.config.cjs e a pasta postcss.config.cjs
+    criar uma pasta styles e um arquivo global.css(dentro com arquivo colocar @tailwind base; @tailwind utilities; @tailwind components;)
