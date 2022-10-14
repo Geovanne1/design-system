@@ -17,3 +17,5 @@ npm install @radix-ui/react-checkbox
 npm i phosphor-react = biblioteca de ícones
 
 npm i @storybook/storybook-deployer --save-dev = para fazer deployer do system
+
+npm install @storybook/addon-a11y
